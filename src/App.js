@@ -10,11 +10,11 @@ import Profile from './Containers/Profile/Profile';
 
 const App = () => (
     <div style={{ height: '100%' }}>
-        {/* <Home /> */}
+        <Home />
         {/* <Description /> */}
         {/* <Info /> */}
         {/* <SignUp /> */}
-        <Login/>
+        {/* <Login/> */}
         {/* <Faq /> */}
         {/* <Profile /> */}
     </div>

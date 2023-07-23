@@ -48,8 +48,8 @@ const Profile = () => {
                 </div>
             </div>
         </div>
-        <div>
-        <h3>Log out</h3>
+        <div className='details'>
+        <a href='./Containers/SignUp/SignUp.js'><h3>Log out</h3></a>
         </div>
 
 
